@@ -1,2 +1,3 @@
 # Stydent
-Hello world, first repository
+Stydent
+In this repository we can test github opporynities
